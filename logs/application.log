@@ -1,0 +1,9 @@
+[INFO ] 2019-06-16 17:07:41.268 [http-bio-8080-exec-1] LoginController - Redirect to login.jsp
+[INFO ] 2019-06-16 17:07:54.360 [http-bio-8080-exec-3] LoginController - Redirect to login.jsp
+[INFO ] 2019-06-16 17:07:54.964 [http-bio-8080-exec-5] LoginController - Redirect to login.jsp
+[INFO ] 2019-06-16 17:07:55.200 [http-bio-8080-exec-6] LoginController - Redirect to login.jsp
+[INFO ] 2019-06-16 17:07:55.562 [http-bio-8080-exec-7] LoginController - Redirect to login.jsp
+[INFO ] 16-06-2019 17:09:03.555 [http-bio-8080-exec-9] LoginController - Redirect to login.jsp
+[INFO ] 16-06-2019 17:24:20.031 [http-bio-8080-exec-4] LoginController - kene
+[INFO ] 16-06-2019 17:27:44.245 [http-bio-8080-exec-9] LoginController - kene
+[INFO ] 16-06-2019 17:29:02.836 [http-bio-8080-exec-3] LoginController - kene
